@@ -3,8 +3,7 @@
 ## 1
 
 1. The main focus of Agile is always responding to changes.
-2. Incremental Software delivery (development) is:
-   - Delivering new functionality to the stakeholders one requirement at a time
+2. Incremental Software delivery (development) is: Adding a new set of business functionality that is fully tested right up to user acceptance testing and expecting each piece to be finished
 3. Iterative software delivery (development) is:
    - Creating a rough piece in the first iteration and then refining that piece over
      the following few iterations.
