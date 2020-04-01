@@ -1,6 +1,6 @@
-#Agile Leaning
+# Agile Leaning
 
-##1
+## 1
 
 1. The main focus of Agile is always responding to changes.
 2. Incremental Software delivery (development) is:
@@ -67,7 +67,7 @@
 
 ---
 
-##3
+## 2
 
 1. The 3 C's (Card, Conversion, Confirmation) of User Stories;
 2. On the back of the user story card we write the user acceptance criteria;
@@ -85,7 +85,7 @@
 
 ---
 
-##4
+## 3
 
 1. In the Scrum planning meeting, the Product Owner defines the high-level user stories
    and the team estimates them in Story Points
@@ -121,7 +121,7 @@
 
 ---
 
-##5
+## 4
 
 1. 3 outputs/deliverables from the Scrum Planning ceremony:
    - Product Backlog;
@@ -154,7 +154,7 @@
 
 ---
 
-##6
+## 5
 
 1. The bottom layer of Patrick Lencioni’s Pyramid in studying the 5 dysfunctions of a
    team is: Absence Of Trust
@@ -178,7 +178,7 @@
 
 ---
 
-##7
+## 6
 
 1. In Scrum, the Scrum Master Owns the Process.
 2. Scrum Ceremonies:
