@@ -138,8 +138,8 @@
 5. In the planning Onion, agile teams plan at the innermost 3 levels of the onion which
    are.
    - Daily scrum;
-     - Iteration;
-     - Release
+   - Iteration;
+   - Release
 6. Story points are typically based on a combination of the size and complexity of the
    work.
 7. When a team begins the estimation process with Story points, the first thing they do
