@@ -1,4 +1,4 @@
-# Agile Leaning
+# Agile Leaning 📚 🏃🏽
 
 ## 1
 
